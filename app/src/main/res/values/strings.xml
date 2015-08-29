@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, world!</string>
+    <string name="app_name">AndroidChallenge</string>
+    <string name="user_profile_view_name">Meu perfil</string>
+    <string name="main_no_items">Não há fotos para visualizar</string>
+    
+    <!-- buttons -->
+    <string name="btn_refresh_user_profile_title">Atualizar</string>
+    <string name="btn_add_more">Adicionar</string>
+    <string name="loading_your_information">Carregando suas informações...</string>
+    <string name="active_photo">Foto ativa</string>
+</resources>
